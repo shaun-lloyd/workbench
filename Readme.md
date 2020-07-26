@@ -16,17 +16,18 @@
 1 x 1800x700x17.
 | Type | Quantity | Length | Width |
 | --- | --- | --- | --- |
-| BOARD | 1 | 1800 | 700 |
-| BOARD | 2	| 1800 | 445 |		
-| BOARD | 2	| 420 |	35 |	
+| BOARD 17mm height | | |
+| | 1 | 1800 | 700 |
+| | 2	| 1800 | 445 |		
+| | 2	| 420 |	35 |	
 | PINE (70mm x 35mm) | | |
-| 6	| 700 | |			
-| 24 | 375 | |			
-| 6	| 100 | |		
-| 12 | 328 | |		
-| 2 | 930 | |		
-| 8 | 1000 | |		
-| 3	| 1200 | |		
+| | 6	| 700 | |			
+| | 24 | 375 | |			
+| | 6	| 100 | |		
+| | 12 | 328 | |		
+| | 2 | 930 | |		
+| | 8 | 1000 | |		
+| | 3	| 1200 | |		
 					
 ## Setup					
 1	make temp work bench. Put 3x1200 on ground with big bench on top. Cover with dropsheet				
