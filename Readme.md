@@ -15,7 +15,7 @@
 ## Wood Cut List
 1 x 1800x700x17.
 | Type | Quantity | Length | Width |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | BOARD | 1 | 1800 | 700 |
 | BOARD | 2	| 1800 | 445 |		
 | BOARD | 2	| 420 |	35 |	
